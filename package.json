@@ -1,0 +1,18 @@
+{
+  "name": "hometask-1",
+  "version": "1.0.0",
+  "description": "Hometask 1 Project, working with the file system methods from the 'fs-extra' package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "research",
+    "fs-extra"
+  ],
+  "author": "Dmitry Rogozik",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
